@@ -6,6 +6,6 @@ public class Main {
 
             System.out.println(orange.iscolor());
             System.out.println(cherry.iscolor());
-            Object.showCreature();
+            Object.showFruit();
         }
 }

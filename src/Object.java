@@ -7,7 +7,7 @@ public class Object{
         }
         return instance;
     }
-    public static void showCreature() {
+    public static void showFruit() {
         System.out.println("Object created");
     }
 }
